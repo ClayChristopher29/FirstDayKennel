@@ -1,0 +1,55 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Doodles",
+      "breed": "Poodle"
+    },
+    {
+      "id": 3,
+      "name": "Esme",
+      "breed": "Pitbull"
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Sam I. Ell",
+      "department": "Feeding"
+    },
+    {
+      "id": 3,
+      "name": "Morn Ingstar",
+      "department": "Grooming"
+    }
+  ],
+  "owners": [
+    {
+      "id": 1,
+      "name": "Abaddon",
+      "pet": "Doodles"
+    },
+    {
+      "id": 2,
+      "name": "Eligos",
+      "pet": "Decker"
+    },
+    {
+      "id": 3,
+      "name": "Pithius",
+      "pet": "Esme"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "1st Realm",
+      "street": "1st Street"
+    },
+    {
+      "id": 3,
+      "name": "3rd Realm",
+      "street": "3rd Street"
+    }
+  ]
+}
